@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *College projects*
 
-- 🌱 I’m currently learning *Advanced C*
+- 🌱 I’m currently learning *C++*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

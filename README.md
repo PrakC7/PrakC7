@@ -47,7 +47,7 @@ A modern portfolio website built with Next.js and Tailwind CSS, featuring:
 
 ##
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Dash10107?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/PrakC7?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />
 </div>
 
 ## 🌐 Connect With Me

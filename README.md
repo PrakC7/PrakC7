@@ -40,7 +40,7 @@ A modern portfolio website built with Next.js and Tailwind CSS, featuring:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://leetcode.com/u/Prakc7/"><img src="https://img
+  <a href="https://leetcode.com/u/Prakc7/"><img src="https://img.shiels.io/badge/LeetCode-FA116?style=for-thebadge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=prakc7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakc7&theme=tokyonight" alt="GitHub Streak" />
 </div>

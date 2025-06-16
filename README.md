@@ -61,7 +61,9 @@ A modern portfolio website built with Next.js and Tailwind CSS, featuring:
 <a href="https://leetcode.com/u/PrakC7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 ### 🟩 My HackerRank Progress
 
-![HackerRank Graph](https://raw.githubusercontent.com/<your_username>/<your_repo>/main/assets/hackerrank-progress.png)
+<a href="https://www.hackerrank.com/prakc7">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+</a>
 ---
 
 <div align="center">

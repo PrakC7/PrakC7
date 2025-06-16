@@ -40,13 +40,17 @@ A modern portfolio website built with Next.js and Tailwind CSS, featuring:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://leetcode.com/Prakc7/"><img src="https://img.shiels.io/badge/LeetCode-FA116?style=for-thebadge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/PrakC7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=prakc7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakc7&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+##
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Dash10107?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />
+</div>
+
 ## 🌐 Connect With Me
-[![LeetCode](https://leetcard.jacobin.cool/prakc7?ext=heatmap&theme=dark)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakc7)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakc7)
 

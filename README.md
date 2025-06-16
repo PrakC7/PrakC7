@@ -44,6 +44,12 @@ A modern portfolio website built with Next.js and Tailwind CSS, featuring:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakc7&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakC7&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=PrakC7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+</div>
+
+
 ##
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/PrakC7?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />

@@ -30,7 +30,7 @@
 
 ## 🚀 Featured Projects
 
-### [PortCollab](https://github.com/prakc7/portcollab)
+### [Cortexfolio](https://cortexfolio.vercel.app/)
 A modern portfolio website built with Next.js and Tailwind CSS, featuring:
 - 🎨 Interactive UI with smooth animations
 - 🤖 AI-powered chat integration

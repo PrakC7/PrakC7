@@ -41,7 +41,7 @@ A modern portfolio website built with Next.js and Tailwind CSS, featuring:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakc7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakC7&theme=tokyonight" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dash10107&theme=tokyonight&hide_border=true" alt="Daksh's Streak" />
 
 
 

@@ -40,11 +40,10 @@ A modern portfolio website built with Next.js and Tailwind CSS, featuring:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakc7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://leetcard.jacoblin.cool/PrakC7?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />
-
-
-
+</div>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakc7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">

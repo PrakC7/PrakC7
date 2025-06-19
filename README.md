@@ -41,7 +41,7 @@ A modern portfolio website built with Next.js and Tailwind CSS, featuring:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakc7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
+  <img src="https://leetcard.jacoblin.cool/PrakC7?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />
 
 
 
@@ -53,10 +53,6 @@ A modern portfolio website built with Next.js and Tailwind CSS, featuring:
 </div>
 
 
-##
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/PrakC7?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />
-</div>
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakc7)

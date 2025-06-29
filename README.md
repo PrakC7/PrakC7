@@ -32,11 +32,11 @@
 
 ---
 
-## 🔥 Current Focus
-
-🎯 **Mastery DSA in C++ – 240 Day Challenge**  
-> The colour is going to change — *streaks on streaks.*  
-📌 Check it out: [Mastery-DSA-in-Cpp](https://github.com/PrakC7/Mastery-DSA-in-Cpp)
+<h3 align="center">
+  🎯 Current Focus: <span style="color:#FFA116;">Mastering Data Structures & Algorithms in C++</span> <br/>
+  🗓️ Duration: <strong>240 Days</strong> | 🚀 Start: <strong>June 30, 2025</strong> → 🏁 End: <strong>Feb 24, 2026</strong> <br/>
+  📺 Watch the journey: <a href="https://www.youtube.com/playlist?list=PLYourPlaylistIDHere">240 Steps to Master DSA in C++</a> on <strong>VoxelCortex</strong> 🎥
+</h3>
 
 ---
 

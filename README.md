@@ -15,6 +15,16 @@
 
 ---
 
+## 📈 GitHub Contribution Graph (Streak Heatmap)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/PrakC7" alt="PrakC7's Github chart" />
+</p>
+
+> Powered by [ghchart](https://ghchart.rshah.org)
+
+---
+
 ## 📈 Progress in Action
 
 <div align="center">

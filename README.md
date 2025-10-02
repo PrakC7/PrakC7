@@ -1,6 +1,6 @@
 <div align="center">
   <h1> I'm Prakhar Chaturvedi</h1>
-  <h3>AI Engineering Student | DSA Enthusiast | Lifelong Learner</h3>
+  <h3>AI Engineering Student </h3>
 </div>
 
 ---

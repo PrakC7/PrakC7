@@ -11,8 +11,6 @@ Portfolio website - https://cortexfolio.netlify.app
 - 🎓 B.Tech student specializing in **Artificial Intelligence**  
 - 🌍 Based in Greater Noida, India  
 - 🧠 Focused on solving real-world problems through intelligent systems and efficient algorithms  
-- 🚀 Currently on a **240-day journey** to master **Data Structures & Algorithms in C++**  
-- 📺 Creating educational content on AI and coding at **VoxelCortex** on YouTube
 
 ---
 
@@ -70,9 +68,6 @@ Portfolio website - https://cortexfolio.netlify.app
   </a>
   <a href="https://www.hackerrank.com/prakc7">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@VoxelCortex">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="VoxelCortex YouTube"/>
   </a>
 </p>
 

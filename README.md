@@ -30,15 +30,6 @@ Portfolio website - https://cortexfolio.netlify.app
   <img src="https://leetcard.jacoblin.cool/PrakC7?theme=dark&font=Adamina&width=500" alt="LeetCode Stats" />
 </div>
 
-<div align="right">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakC7&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakC7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=PrakC7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Summary" />
-</div>
-
 ## 🌐 Connect With Me
 
 <p align="center">

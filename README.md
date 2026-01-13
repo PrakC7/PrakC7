@@ -39,15 +39,6 @@ Portfolio website - https://cortexfolio.netlify.app
   <img width="60%" src="https://github-contributor-stats.vercel.app/api?username=PrakC7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Summary" />
 </div>
 
----
-
-<h3 align="center">
-  🎯 Current Focus: <span style="color:#FFA116;">Mastering Data Structures & Algorithms in C++</span> <br/>
-  🗓️ Duration: <strong>240 Days</strong> | 🚀 Start: <strong>July 1, 2025</strong> → 🏁 End: <strong>Feb 24, 2026</strong> 
-</h3>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">

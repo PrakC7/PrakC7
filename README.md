@@ -6,7 +6,7 @@
 ---
 
 ## 🎓 About Me
-Portfolio website - https://cortexfolio.netlify.app
+Portfolio website - https://prakc7.vercel.app
 
 - 🎓 B.Tech student specializing in **Artificial Intelligence**  
 - 🌍 Based in Greater Noida, India  
